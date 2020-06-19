@@ -1,5 +1,5 @@
 html {
-    background: url(img/background3.jpeg) no-repeat center center fixed;
+    background-image: linear-gradient(to right, blue , grey);
     
 }
 
